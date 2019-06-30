@@ -21,8 +21,16 @@
   },
   "homepage": "https://github.com/jarekucinski/react-next-hooks#readme",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "bootstrap": "^4.3.1",
     "next": "^8.1.0",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-toastify": "^5.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-plugin-react": "^7.14.2",
+    "react-hooks": "^1.0.1"
   }
 }
